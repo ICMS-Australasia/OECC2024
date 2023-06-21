@@ -18,6 +18,8 @@ button.btn {
     border: 0;
     transition-duration: .3s;
     border-radius: 10px;
+    margin: 0 auto;
+    display: table;
 }
 button.btn:hover {
     background: #8dc63f;
