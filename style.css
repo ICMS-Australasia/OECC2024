@@ -36,3 +36,16 @@ button.btn a {
     margin: 0 auto;
     display: table;
 }
+
+
+.main{
+    width:1200px;
+}
+
+.eoi-btn{
+    margin-top:50px;
+}
+
+@media screen {
+    
+}
