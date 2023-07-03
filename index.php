@@ -14,17 +14,17 @@
  
 </head>
 <body>
-    <div class="main">
+    <div class="container">
          <div class = "row my-4">
-            <div class = "col-md-8">
-                 <div class="logo-container">
-            <a href="/"><img src="OECC2024-logo-pos.svg" alt="" width="800"></a>
-             <button class="btn my-5 eoi-btn">
-            <a href = "https://icmsaust.eventsair.com/oecc-2024---optoelectronics-and-communications-conference/expression-of-interest/Site/Register" target = "_blank">Express Your Interest</a>
-        </button>
-        </div>
+            <div class = "col-lg-6">
+                <div class="logo-container">
+                    <a href="/"><img src="OECC2024-logo-pos.svg" alt="" class="img-fluid"></a>
+                    <button class="btn my-5 eoi-btn">
+                        <a href = "https://icmsaust.eventsair.com/oecc-2024---optoelectronics-and-communications-conference/expression-of-interest/Site/Register" target = "_blank">Express Your Interest</a>
+                    </button>
+                </div>
             </div>
-            <div class = "col-md-4">
+            <div class = "col-lg-6">
                 <script type="text/javascript" src="https://form.jotform.com/jsform/231830941418859"></script>
             </div>
         </div>
